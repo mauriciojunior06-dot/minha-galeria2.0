@@ -1,0 +1,36 @@
+    body{
+        margin: 0; /*remove a margem*/
+    
+        background-color: blue(31, 130, 97); /*muda a cor do fundo*/ 
+    
+        font-family: Arial, Helvetica, sans-serif; /* tipo da letra*/
+    
+    }
+    
+    hl{     
+
+        text-align: center;/*alinha mento do titulo*/
+    
+        margin-bottom: 30px;   /*margem do titulo*/
+      
+    }
+
+.imagem{
+
+display: grid; /* faz a tela ficar em 3x3*/
+
+grid-template-columns: repeat(auto-fit,minmax(250px,lfr)  )   ;
+
+
+
+
+
+}
+
+  
+
+
+
+
+
+
