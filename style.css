@@ -21,6 +21,7 @@ display: grid; /* faz a tela ficar em 3x3*/
 
 grid-template-columns: repeat(auto-fit,minmax(250px,lfr)  )   ;
 
+/* 
 
 
 
